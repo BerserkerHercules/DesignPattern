@@ -1,1 +1,1 @@
-# DesignPattern 设计模式例子
+DesignPattern 设计模式例子
